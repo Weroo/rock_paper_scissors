@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://Weroo.github.io/rock_paper_scissors",
+  "homepage": "https://weroo.github.io/rock_paper_scissors",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
